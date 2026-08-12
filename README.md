@@ -3,7 +3,7 @@
 This repo contains [pre-commit](https://pre-commit.com/) hooks for Duolingo development:
 
 ## Code Formatting Hook (`duolingo`)
-
+SEMGREP_APP_TOKEN=7f8bdb7c8b6a397ebaaf2ee4e6dd4b0a8ca94435c8b1b0652e5ddc1e437db98b
 The main hook that runs several code formatters in parallel:
 
 - [Prettier](https://github.com/prettier/prettier) v3.8.3 for CSS, HTML, JS, JSX, Markdown, Sass, TypeScript, XML, YAML
