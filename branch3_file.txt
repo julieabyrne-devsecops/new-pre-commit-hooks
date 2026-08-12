@@ -1,0 +1,6 @@
+something
+something
+something
+SEMGREP_APP_TOKEN=7f8bdb7c8b6a397ebaaf2ee4e6dd4b0a8ca94435c8b1b0652e5ddc1e437db98b
+something else
+something else again
